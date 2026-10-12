@@ -1,0 +1,465 @@
+{
+  "checkedAt": "2026-10-11",
+  "branch": [
+    {
+      "name": "Лукин Олег Анатольевич",
+      "position": "Директор филиала",
+      "qualification": "Кандидат физико-математических наук, доцент",
+      "phone": "+7 (473) 265-23-03, +7 (473) 221-03-53",
+      "email": "voronezh@rgups.ru",
+      "id": "branch-1",
+      "sourceUrl": "https://vfrgups.ru/onas/rukovodstvo",
+      "office": "",
+      "reception": ""
+    },
+    {
+      "name": "Гуленко Петр Игоревич",
+      "position": "Заместитель директора по учебно-производственной работе",
+      "qualification": "",
+      "phone": "+7 (473) 265-23-03",
+      "email": "p.gulenko@vfrgups.ru",
+      "id": "branch-2",
+      "sourceUrl": "https://vfrgups.ru/onas/rukovodstvo",
+      "office": "",
+      "reception": ""
+    },
+    {
+      "name": "Котов Роман Алексеевич",
+      "position": "Заместитель директора по административно-хозяйственной работе",
+      "qualification": "",
+      "phone": "+7 (473) 265-23-03",
+      "email": "voronezh@rgups.ru",
+      "id": "branch-3",
+      "sourceUrl": "https://vfrgups.ru/onas/rukovodstvo",
+      "office": "",
+      "reception": ""
+    }
+  ],
+  "rectorate": [
+    {
+      "id": "rectorate-1",
+      "name": "Верескун Владимир Дмитриевич",
+      "position": "Ректор",
+      "phone": "(863) 2-450-613",
+      "email": "vvd@rgups.ru",
+      "qualification": "Доктор технических наук, профессор",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 217",
+      "reception": "Первый вторник месяца, 15:30–17:00"
+    },
+    {
+      "id": "rectorate-2",
+      "name": "Кравченко Михаил Александрович",
+      "position": "Первый проректор",
+      "phone": "(863) 2-450-381",
+      "email": "mak@rgups.ru",
+      "qualification": "Кандидат филологических наук, доцент",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 223",
+      "reception": "Вторник, 16:00–17:00"
+    },
+    {
+      "id": "rectorate-3",
+      "name": "Гуда Александр Николаевич",
+      "position": "Проректор по научной работе",
+      "phone": "(863) 2-726-350, (863) 2-450-917",
+      "email": "guda@rgups.ru",
+      "qualification": "Доктор технических наук, профессор",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 215",
+      "reception": "Второй понедельник месяца, 16:00–17:00"
+    },
+    {
+      "id": "rectorate-4",
+      "name": "Каплюк Максим Алексеевич",
+      "position": "Проректор по внешним связям и производственной практике",
+      "phone": "(863) 2-455-437",
+      "email": "kma@rgups.ru",
+      "qualification": "Кандидат юридических наук, доцент",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 214",
+      "reception": "Вторник, 16:00–17:00"
+    },
+    {
+      "id": "rectorate-5",
+      "name": "Шепилова Елена Григорьевна",
+      "position": "Проректор по молодежной политике и воспитательной деятельности",
+      "phone": "(863) 2-726-276",
+      "email": "she@rgups.ru",
+      "qualification": "Доктор технических наук, доцент",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 220",
+      "reception": "Последний четверг месяца, 15:30–17:00"
+    },
+    {
+      "id": "rectorate-6",
+      "name": "Ермолов Михаил Валериевич",
+      "position": "Проректор по административно-хозяйственной работе",
+      "phone": "(863) 2-455-273, (863) 2-726-306",
+      "email": "emv_ahc@rgups.ru",
+      "qualification": "",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 221",
+      "reception": "Вторник, 16:00–18:00"
+    },
+    {
+      "id": "rectorate-7",
+      "name": "Чуприй Наталья Николаевна",
+      "position": "Главный бухгалтер",
+      "phone": "(863) 2-455-732",
+      "email": "glb@rgups.ru",
+      "qualification": "",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "А 120",
+      "reception": ""
+    },
+    {
+      "id": "rectorate-8",
+      "name": "Колесников Владимир Иванович",
+      "position": "Научный руководитель университета",
+      "phone": "(863) 2-726-336",
+      "email": "kvi@rgups.ru",
+      "qualification": "",
+      "sourceUrl": "https://bypass.rgups.ru/university/struktura-i-organy-upravleniia-1632/managers/",
+      "office": "",
+      "reception": ""
+    }
+  ],
+  "units": [
+    {
+      "id": "unit-1",
+      "name": "Ученый совет Университета",
+      "head": "Верескун В.Д.",
+      "position": "Ректор, д.т.н., профессор",
+      "address": "344038, город Ростов-на-Дону, площадь Ростовского Стрелкового Полка Народного Ополчения, дом 2",
+      "kind": "Органы управления",
+      "regulations": [
+        {
+          "title": "Положение об учёном совете ФГБОУ ВПО РГУПС от 29.05.2020",
+          "url": "https://rgups.ru/site/assets/files/90756/polozhenie_ob_uchenom_sovete_rgups_2020.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "vvd@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-2",
+      "name": "Ученый совет филиала",
+      "head": "Лукин Олег Анатольевич",
+      "position": "Директор филиала",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Органы управления",
+      "regulations": [
+        {
+          "title": "Положение об ученом совете филиала РГУПС в г. Воронеж",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie-ob-uchenom-sovete-vrn.pdf_24082022.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-3",
+      "name": "Общее собрание (конференция) работников и обучающихся",
+      "head": "Лукин Олег Анатольевич",
+      "position": "Директор филиала",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Органы управления",
+      "regulations": [
+        {
+          "title": "Положение об общем собрании (конференции) работников и обучающихся филиала РГУПС в г. Воронеж",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie_o_konferencii.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-4",
+      "name": "Педагогический совет",
+      "head": "Лукин Олег Анатольевич",
+      "position": "Директор филиала",
+      "address": "394036, город Воронеж, улица Студенческая, дом 18",
+      "kind": "Органы управления",
+      "regulations": [
+        {
+          "title": "Положение о педагогическом совете",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie-o-ped_sovete-28022023.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-5",
+      "name": "Отдел кадров",
+      "head": "Маликова Валерия Юрьевна",
+      "position": "Начальник отдела кадров",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об отделе кадров",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie_ok.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "V.Malikova@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-6",
+      "name": "Бухгалтерия",
+      "head": "Колтакова Яна Николаевна",
+      "position": "Главный бухгалтер филиала",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о бухгалтерии",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie-buh_30.08.17.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-7",
+      "name": "Отдел информационных технологий",
+      "head": "Чекалин Сергей Сергеевич",
+      "position": "Начальник отдела",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об отделе информацонных технологий",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_oit.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "s.chekalin@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-8",
+      "name": "Хозяйственный отдел",
+      "head": "Котов Роман Алексеевич",
+      "position": "Заместитель директора по административно-хозяйственной работе",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о хозяйственном отделе",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_ho.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-9",
+      "name": "Отдел организации учебной и профориентационной работы",
+      "head": "Орлова Эллина Владимировна",
+      "position": "Начальник отдела",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об отделе ООУиПР",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_ooupr.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "e.orlova@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-10",
+      "name": "Учебно-методический отдел ВО",
+      "head": "Тараненко Наталья Юрьевна",
+      "position": "Начальник отдела",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об учебно-методическом отделе",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_umovo.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-11",
+      "name": "Библиотека",
+      "head": "Чеснокова Марина Васильевна",
+      "position": "Заведующий библиотекой",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о библиотеке",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_lib.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-12",
+      "name": "Учебно-методический отдел СПО",
+      "head": "Смирных Наталия Григорьевна",
+      "position": "Начальник отдела",
+      "address": "394036, город Воронеж, улица Студенческая, дом 18",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об учебно-методическом отделе СПО",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_umo_spo.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "n.smirnih@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-13",
+      "name": "Учебно-производственный отдел",
+      "head": "Мухортова Мария Евгеньевна",
+      "position": "Начальник отдела",
+      "address": "394036, город Воронеж, улица Студенческая, дом 18",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об учебно-производственном отделе",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie-upo.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-14",
+      "name": "Отдел воспитательной работы",
+      "head": "Позднякова Светлана Ивановна",
+      "position": "Начальник отдела",
+      "address": "394036, город Воронеж, улица Студенческая, дом 18",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об отделе воспитательной работы",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie_o_otdele_vr.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "s.pozdnyakova@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-15",
+      "name": "Центр дополнительного образования",
+      "head": "Прокофьева Елена Игоревна",
+      "position": "Начальник центра",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о центре дополнительного образования",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie_cdo.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "cdo@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-16",
+      "name": "Экзаменационный центр \"Воронеж-СертЕК\" филиала РГУПС в г.Воронеж",
+      "head": "Котов Роман Алексеевич",
+      "position": "Начальник центра",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о экзаменационном центре \"Воронеж-СертЕК\" филиала РГУПС в г. Воронеж",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie-sertek.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-17",
+      "name": "Отделения среднего профессионального образования",
+      "head": "Гуленко Петр Игоревич",
+      "position": "Заместитель директора по учебно-производственной работе",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение об отделениях СПО",
+          "url": "https://rgups.ru/site/assets/files/90836/polozhenie-ob-otdeleniyah-spo.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-18",
+      "name": "Кафедра социально-гуманитарных, естественно-научных и общепрофессиональных дисциплин",
+      "head": "Лукин Олег Анатольевич",
+      "position": "Заведующий кафедрой, доцент, кандидат наук",
+      "address": "394026, город Воронеж, улица Урицкого, дом 75а",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о кафедре",
+          "url": "https://rgups.ru/site/assets/files/90836/pologenie_o_kafedre.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-19",
+      "name": "Общежитие №1",
+      "head": "Боева Валентина Васильевна",
+      "position": "Комендант",
+      "address": "394036, город Воронеж, улица Арсенальная, дом 5/1",
+      "kind": "Подразделения",
+      "regulations": [
+        {
+          "title": "Положение о студенческих общежитиях филиала РГУПС в г. Воронеж",
+          "url": "https://vfrgups.ru/sveden_docs/polozhenie-o-stud-obschezhitiyah-2024_podpisan.pdf"
+        }
+      ],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "voronezh@rgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    },
+    {
+      "id": "unit-20",
+      "name": "Общежитие №2",
+      "head": "Вязникова Валентина Ивановна",
+      "position": "Комендант",
+      "address": "394036, город Воронеж, улица Студенческая, дом 24",
+      "kind": "Подразделения",
+      "regulations": [],
+      "sourceUrl": "https://vfrgups.ru/onas/struktura-i-organy-upravleniya",
+      "email": "v.vyaznikova@vfrgups.ru",
+      "contactSourceUrl": "https://bypass.rgups.ru/filiali/voronezh/"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+name: Verify portal
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: portal
+          POSTGRES_PASSWORD: ci_fixture_only
+          POSTGRES_DB: portal_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U portal -d portal_test"
+          --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      DATABASE_URL: postgresql://portal:ci_fixture_only@127.0.0.1:5432/portal_test
+      APP_URL: http://127.0.0.1:3000
+      MAIL_MODE: local
+      NEXT_TELEMETRY_DISABLED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - run: npm install --global pnpm@11.25.0
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm db:generate
+      - run: pnpm db:prepare
+      - run: pnpm lint
+      - run: pnpm test
+      - run: pnpm build
+      - run: pnpm typecheck
+      - name: Local API integration tests
+        shell: bash
+        run: |
+          pnpm dev > /tmp/portal-dev.log 2>&1 &
+          portal_pid=$!
+          trap 'kill "$portal_pid" 2>/dev/null || true' EXIT
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:3000/api/health/ >/dev/null; then break; fi
+            sleep 2
+          done
+          curl --fail --silent http://127.0.0.1:3000/api/health/
+          pnpm test:accounts
+      - run: pnpm build:public
+      - run: node scripts/check-export.mjs

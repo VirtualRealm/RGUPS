@@ -1,0 +1,93 @@
+name: rgups-portal
+x-portal-environment: &portal-environment
+  NODE_ENV: production
+  DATABASE_URL: postgresql://portal:${POSTGRES_PASSWORD:?Set a random URL-safe database password}@db:5432/portal
+  APP_URL: https://${PORTAL_DOMAIN:?Set the real hostname}
+  MAIL_MODE: smtp
+  SMTP_HOST: ${SMTP_HOST:?Configure mail delivery}
+  SMTP_PORT: ${SMTP_PORT:-587}
+  SMTP_FROM: ${SMTP_FROM:?Configure the sender}
+  SMTP_USER: ${SMTP_USER:-}
+  SMTP_PASSWORD: ${SMTP_PASSWORD:-}
+  TRUST_PROXY: "1"
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: portal
+      POSTGRES_USER: portal
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a random URL-safe database password}
+    volumes:
+      - portal_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, "pg_isready -U portal -d portal"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  migrate:
+    build:
+      context: .
+      target: operations
+    environment: *portal-environment
+    command:
+      [
+        sh,
+        -c,
+        "node scripts/prepare-database.mjs && node scripts/check-services.mjs",
+      ]
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: "no"
+  app:
+    build:
+      context: .
+      target: runner
+    environment: *portal-environment
+    restart: unless-stopped
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    healthcheck:
+      test:
+        [
+          CMD,
+          node,
+          -e,
+          "fetch('http://127.0.0.1:3000/api/health/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))",
+        ]
+      interval: 30s
+      timeout: 10s
+      start_period: 40s
+      retries: 3
+  proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      PORTAL_DOMAIN: ${PORTAL_DOMAIN:?Set the real hostname}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      app:
+        condition: service_healthy
+  operator:
+    profiles: [operator]
+    build:
+      context: .
+      target: operations
+    environment: *portal-environment
+    depends_on:
+      db:
+        condition: service_healthy
+    command: [node, scripts/check-services.mjs]
+volumes:
+  portal_data:
+  caddy_data:
+  caddy_config:

@@ -1,0 +1,2776 @@
+{
+  "verifiedAt": "2026-10-11",
+  "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+  "academicYear": "2026/2027",
+  "updatedAt": "2026-10-09",
+  "documents": [
+    {
+      "id": "vo-course-1-2026",
+      "title": "Высшее образование — 1 курс",
+      "level": "ВО",
+      "form": "Очная",
+      "type": "Занятия",
+      "course": 1,
+      "semester": 1,
+      "academicYear": "2026/2027",
+      "period": "Осенний семестр 2026/2027 учебного года (1 семестр)",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/rasp_1k_1sem_2026v3.pdf",
+      "filename": "rasp_1k_1sem_2026v3.pdf",
+      "bytes": 1847110,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/rasp_1k_1sem_2026v3.pdf"
+    },
+    {
+      "id": "vo-course-2-2026",
+      "title": "Высшее образование — 2 курс",
+      "level": "ВО",
+      "form": "Очная",
+      "type": "Занятия",
+      "course": 2,
+      "semester": 3,
+      "academicYear": "2026/2027",
+      "period": "Осенний семестр 2026/2027 учебного года (3 семестр)",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/rasp_2k_3sem_2026v3.pdf",
+      "filename": "rasp_2k_3sem_2026v3.pdf",
+      "bytes": 1919757,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/rasp_2k_3sem_2026v3.pdf"
+    },
+    {
+      "id": "vo-course-3-2026",
+      "title": "Высшее образование — 3 курс",
+      "level": "ВО",
+      "form": "Очная",
+      "type": "Занятия",
+      "course": 3,
+      "semester": 5,
+      "academicYear": "2026/2027",
+      "period": "Осенний семестр 2026/2027 учебного года (5 семестр)",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/rasp_3k%20_5sem_2026v2.pdf",
+      "filename": "rasp_3k _5sem_2026v2.pdf",
+      "bytes": 1372732,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/rasp_3k-_5sem_2026v2.pdf"
+    },
+    {
+      "id": "vo-course-4-2026",
+      "title": "Высшее образование — 4 курс",
+      "level": "ВО",
+      "form": "Очная",
+      "type": "Занятия",
+      "course": 4,
+      "semester": 7,
+      "academicYear": "2026/2027",
+      "period": "Осенний семестр 2026/2027 учебного года (7 семестр)",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/rasp_4k_7sem_2026.pdf",
+      "filename": "rasp_4k_7sem_2026.pdf",
+      "bytes": 5083314,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/rasp_4k_7sem_2026.pdf"
+    },
+    {
+      "id": "vo-course-5-2026",
+      "title": "Высшее образование — 5 курс",
+      "level": "ВО",
+      "form": "Очная",
+      "type": "Занятия",
+      "course": 5,
+      "semester": 9,
+      "academicYear": "2026/2027",
+      "period": "Осенний семестр 2026/2027 учебного года (9 семестр)",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/rasp_5k_9sem_2026.pdf",
+      "filename": "rasp_5k_9sem_2026.pdf",
+      "bytes": 6100122,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/rasp_5k_9sem_2026.pdf"
+    },
+    {
+      "id": "spo-changes-2026-10-09",
+      "title": "Изменения СПО — 09.10.2026",
+      "level": "СПО",
+      "form": "Очная",
+      "type": "Изменения",
+      "course": null,
+      "semester": null,
+      "academicYear": "2026/2027",
+      "period": "09.10.2026",
+      "date": "2026-10-09",
+      "groups": [
+        "ВООП-241",
+        "ВООП-242",
+        "ВООП-253",
+        "ВООП-261",
+        "ВОСК-241",
+        "ВОСК-411",
+        "ВОСК-412",
+        "ВЭВХ-242",
+        "ВЭВХ-252",
+        "ВЭПХ-241",
+        "ВЭПХ-242",
+        "ВЭПХ-251"
+      ],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "filename": "zamena_09-10-2026.pdf",
+      "bytes": 157317,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": "2026-10-09",
+      "archived": true,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/zamena_09-10-2026.pdf"
+    },
+    {
+      "id": "spo-changes-2026-10-10",
+      "title": "Изменения СПО — 10.10.2026",
+      "level": "СПО",
+      "form": "Очная",
+      "type": "Изменения",
+      "course": null,
+      "semester": null,
+      "academicYear": "2026/2027",
+      "period": "10.10.2026",
+      "date": "2026-10-10",
+      "groups": ["ВОСК-242", "ВОСК-411", "ВОСК-412"],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "filename": "zamena_10-10-2026.pdf",
+      "bytes": 152215,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": "2026-10-10",
+      "archived": true,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/zamena_10-10-2026.pdf"
+    },
+    {
+      "id": "spo-changes-2026-10-12",
+      "title": "Изменения СПО — 12.10.2026",
+      "level": "СПО",
+      "form": "Очная",
+      "type": "Изменения",
+      "course": null,
+      "semester": null,
+      "academicYear": "2026/2027",
+      "period": "12.10.2026",
+      "date": "2026-10-12",
+      "groups": [
+        "ВОАТ-261",
+        "ВООП-242",
+        "ВООП-243",
+        "ВООП-262",
+        "ВОСК-261",
+        "ВОСК-411",
+        "ВОСК-412",
+        "ВОЭТ-251",
+        "ВОЭТ-252",
+        "ВОЭТ-262",
+        "ВЭПХ-241",
+        "ВЭПХ-251"
+      ],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "filename": "zamena_12-10-2026.pdf",
+      "bytes": 157876,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": "2026-10-12",
+      "archived": false,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/zamena_12-10-2026.pdf"
+    },
+    {
+      "id": "vo-consultations-2025-2026",
+      "title": "Консультации преподавателей кафедры СГЕН и ОД",
+      "level": "ВО",
+      "form": "Все формы",
+      "type": "Консультации",
+      "course": null,
+      "semester": null,
+      "academicYear": "2025/2026",
+      "period": "2025/2026 учебный год — архив",
+      "date": null,
+      "groups": [],
+      "fileType": "PDF",
+      "url": "https://vfrgups.ru/sveden_docs/kons_prep_2025-2026.pdf",
+      "filename": "kons_prep_2025-2026.pdf",
+      "bytes": 3941949,
+      "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+      "verifiedAt": "2026-10-11",
+      "updatedAt": null,
+      "archived": true,
+      "verification": "Файл получен непосредственно с официального сайта 11.10.2026.",
+      "localUrl": "/schedules/kons_prep_2025-2026.pdf"
+    }
+  ],
+  "services": [
+    {
+      "id": "daily-vo",
+      "title": "Ежедневное расписание ВО",
+      "level": "ВО",
+      "form": "Все формы",
+      "description": "Датированные занятия очного и заочного отделений. Проверены все даты учебного года.",
+      "url": "https://vfrgups.ru/studentam/raspisanie",
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "teachers-vo",
+      "title": "Расписание преподавателей ВО",
+      "level": "ВО",
+      "form": "Все формы",
+      "description": "46 преподавателей в официальной форме выбора; календарь нового портала строится по опубликованным занятиям.",
+      "url": "https://vfrgups.ru/studentam/raspisanie",
+      "updatedAt": null
+    },
+    {
+      "id": "sessions-vo",
+      "title": "Сессии заочного отделения ВО",
+      "level": "ВО",
+      "form": "Заочная",
+      "description": "Проверены все 32 потока и три сессии для каждого. Расписание опубликовано для 78 из 96 комбинаций.",
+      "url": "https://vfrgups.ru/studentam/raspisanie",
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "weekly-spo",
+      "title": "Расписание СПО по группам",
+      "level": "СПО",
+      "form": "Очная",
+      "description": "Все 12 вариантов групп сохранены. Официальная форма при проверке возвращает пустую страницу; доступны опубликованные файлы замен.",
+      "url": "https://vfrgups.ru/studentam/raspisanie",
+      "updatedAt": null
+    }
+  ],
+  "bellSchedule": {
+    "level": "ВО",
+    "sourceUrl": "https://vfrgups.ru/studentam/raspisanie",
+    "sourceTitle": "Время занятий в электронном расписании ВО",
+    "verifiedAt": "2026-10-11",
+    "note": "Интервалы приведены по опубликованным занятиям. Сессии могут занимать несколько пар; точное время указано в календаре. К СПО этот график не применяется.",
+    "entries": [
+      {
+        "lessonNumber": 1,
+        "startsAt": "09:00",
+        "endsAt": "10:35"
+      },
+      {
+        "lessonNumber": 2,
+        "startsAt": "10:45",
+        "endsAt": "12:20"
+      },
+      {
+        "lessonNumber": 3,
+        "startsAt": "13:00",
+        "endsAt": "14:35"
+      },
+      {
+        "lessonNumber": 4,
+        "startsAt": "14:45",
+        "endsAt": "16:20"
+      },
+      {
+        "lessonNumber": 5,
+        "startsAt": "16:30",
+        "endsAt": "18:05"
+      },
+      {
+        "lessonNumber": 6,
+        "startsAt": "18:15",
+        "endsAt": "19:50"
+      }
+    ]
+  },
+  "lessons": [],
+  "lessonDataFile": "schedule-lessons.json",
+  "changes": [
+    {
+      "id": "spo-2026-10-09-3",
+      "date": "2026-10-09",
+      "group": "ВООП-241",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Тех перев проц Рукина А.М.",
+      "room": "405",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-4",
+      "date": "2026-10-09",
+      "group": "ВООП-242",
+      "lessonNumber": 2,
+      "original": "Тех перев проц Рукина А.М.",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-5",
+      "date": "2026-10-09",
+      "group": "ВООП-242",
+      "lessonNumber": 3,
+      "original": "Сист регул дви Жданов А.Н",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-6",
+      "date": "2026-10-09",
+      "group": "ВООП-242",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-2",
+      "date": "2026-10-09",
+      "group": "ВООП-253",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Тех ср-ва ж.д. Никитин В.Ю.",
+      "room": "238",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-1",
+      "date": "2026-10-09",
+      "group": "ВООП-261",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "География Третьяк Н.А.",
+      "room": "335",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-12",
+      "date": "2026-10-09",
+      "group": "ВОСК-241",
+      "lessonNumber": 3,
+      "original": "Ком и телек се Русинова Е.С.",
+      "replacement": "Тех прикл прог Коноплина Н.Н.",
+      "room": "2-217",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-13",
+      "date": "2026-10-09",
+      "group": "ВОСК-241",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "МДК 02.03 Сукочева Т.А.",
+      "room": "2-215",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-14",
+      "date": "2026-10-09",
+      "group": "ВОСК-411",
+      "lessonNumber": 1,
+      "original": "Н/Б",
+      "replacement": "МДК 05.02 Тазаева И.Н.",
+      "room": "2-219",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-15",
+      "date": "2026-10-09",
+      "group": "ВОСК-412",
+      "lessonNumber": 1,
+      "original": "МДК 03.02 Русинова Е.С.",
+      "replacement": "Н/Б",
+      "room": "",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-16",
+      "date": "2026-10-09",
+      "group": "ВОСК-412",
+      "lessonNumber": 2,
+      "original": "МДК 03.01 Русинова Е.С.",
+      "replacement": "Н/Б",
+      "room": "",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-11",
+      "date": "2026-10-09",
+      "group": "ВЭВХ-242",
+      "lessonNumber": 1,
+      "original": "Н/Б",
+      "replacement": "Орг раб по рем Просяник М.И.",
+      "room": "2-120",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-10",
+      "date": "2026-10-09",
+      "group": "ВЭВХ-252",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "История России Метусс Е.М.",
+      "room": "1-109",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-8",
+      "date": "2026-10-09",
+      "group": "ВЭПХ-241",
+      "lessonNumber": 2,
+      "original": "МДК 02.01 Борисова Е.В.",
+      "replacement": "Прав обесп про Просяник М.И.",
+      "room": "2-120",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-9",
+      "date": "2026-10-09",
+      "group": "ВЭПХ-242",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Осн бер произв Семенихина М.А",
+      "room": "3-102",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-09-7",
+      "date": "2026-10-09",
+      "group": "ВЭПХ-251",
+      "lessonNumber": 1,
+      "original": "Строит материа Борисова Е.В.",
+      "replacement": "Физическая кул Жарких А.В.",
+      "room": "С/зал 2",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_09-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-10-17",
+      "date": "2026-10-10",
+      "group": "ВОСК-242",
+      "lessonNumber": 1,
+      "original": "Ком и телек се Русинова Е.С.",
+      "replacement": "Н/Б",
+      "room": "",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-10-18",
+      "date": "2026-10-10",
+      "group": "ВОСК-411",
+      "lessonNumber": 2,
+      "original": "МДК 03.01 Русинова Е.С.",
+      "replacement": "Физическая кул Жарких Т.Е.",
+      "room": "С/зал 3",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-10-19",
+      "date": "2026-10-10",
+      "group": "ВОСК-412",
+      "lessonNumber": 1,
+      "original": "Иностранный яз Соболева И.Ю.",
+      "replacement": "Н/Б",
+      "room": "",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-10-20",
+      "date": "2026-10-10",
+      "group": "ВОСК-412",
+      "lessonNumber": 3,
+      "original": "МДК 03.02 Русинова Е.С.",
+      "replacement": "Иностранный яз Соболева И.Ю.",
+      "room": "1-301",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-10-21",
+      "date": "2026-10-10",
+      "group": "ВОСК-412",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "МДК 03.02 Жданова А.А.",
+      "room": "1-308",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_10-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-22",
+      "date": "2026-10-12",
+      "group": "ВОАТ-261",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Литература Золкина С.А.",
+      "room": "204",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-24",
+      "date": "2026-10-12",
+      "group": "ВООП-242",
+      "lessonNumber": 2,
+      "original": "Сист регул дви Жданов А.Н",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-25",
+      "date": "2026-10-12",
+      "group": "ВООП-242",
+      "lessonNumber": 3,
+      "original": "Обесп груз пер Зайнуллина Т.А",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-26",
+      "date": "2026-10-12",
+      "group": "ВООП-242",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "УП 03.01 Козлова О.Ю.",
+      "room": "304",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-27",
+      "date": "2026-10-12",
+      "group": "ВООП-243",
+      "lessonNumber": 1,
+      "original": "Н/Б",
+      "replacement": "Тран логистика Никитин В.Ю.",
+      "room": "238",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-23",
+      "date": "2026-10-12",
+      "group": "ВООП-262",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Химия Станкевич К. А",
+      "room": "305",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-34",
+      "date": "2026-10-12",
+      "group": "ВОСК-261",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Обществознание Метусс Е.М.",
+      "room": "1-109",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-35",
+      "date": "2026-10-12",
+      "group": "ВОСК-411",
+      "lessonNumber": 2,
+      "original": "МДК 05.02 Русинова Е.С.",
+      "replacement": "МДК 03.02 Жданова А.А.",
+      "room": "1-308",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-36",
+      "date": "2026-10-12",
+      "group": "ВОСК-411",
+      "lessonNumber": 3,
+      "original": "МДК 03.01 Русинова Е.С.",
+      "replacement": "МДК 05.01 Тазаева И.Н.",
+      "room": "2-219",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-37",
+      "date": "2026-10-12",
+      "group": "ВОСК-412",
+      "lessonNumber": 1,
+      "original": "МДК 05.02 Русинова Е.С.",
+      "replacement": "МДК 05.02 Тазаева И.Н.",
+      "room": "2-219",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-38",
+      "date": "2026-10-12",
+      "group": "ВОСК-412",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "МДК 03.02 Жданова А.А.",
+      "room": "1-308",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-29",
+      "date": "2026-10-12",
+      "group": "ВОЭТ-251",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "МДК 0101 т.1.2 Сгибнев И.Ю.",
+      "room": "61",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-30",
+      "date": "2026-10-12",
+      "group": "ВОЭТ-252",
+      "lessonNumber": 3,
+      "original": "ОКЖД Смирных Н.Г.",
+      "replacement": "Иностранный яз\nЛитвинова Е.В. Волкова О.Б.",
+      "room": "144\n403",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-28",
+      "date": "2026-10-12",
+      "group": "ВОЭТ-262",
+      "lessonNumber": 4,
+      "original": "Н/Б",
+      "replacement": "Информатика Пожидаева Е.А",
+      "room": "223",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-32",
+      "date": "2026-10-12",
+      "group": "ВЭПХ-241",
+      "lessonNumber": 1,
+      "original": "Н/Б",
+      "replacement": "МДК 07.01 Сакварелидзе Г",
+      "room": "3-104",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-33",
+      "date": "2026-10-12",
+      "group": "ВЭПХ-241",
+      "lessonNumber": 3,
+      "original": "МДК 07.01 Сакварелидзе Г",
+      "replacement": "Прав обесп про Просяник М.И.",
+      "room": "2-120",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    },
+    {
+      "id": "spo-2026-10-12-31",
+      "date": "2026-10-12",
+      "group": "ВЭПХ-251",
+      "lessonNumber": 3,
+      "original": "Н/Б",
+      "replacement": "ОКЖД Неделина О.А.",
+      "room": "3-205",
+      "weekLabel": "ПОД ЧЕРТОЙ",
+      "level": "СПО",
+      "form": "Очная",
+      "sourceUrl": "https://vfrgups.ru/sveden_docs/schedule/zamena_12-10-2026.pdf",
+      "sourcePage": 1,
+      "verifiedAt": "2026-10-11"
+    }
+  ],
+  "spoOptions": [
+    {
+      "id": "spo-voat",
+      "title": "ВОАТ",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voat",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-voes-voit_v2",
+      "title": "ВОЭС, ВОИТ",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voes-voit_v2",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-vosk-12k",
+      "title": "ВОСК 1, 2 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "vosk-12k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-vosk-34k",
+      "title": "ВОСК 3, 4 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "vosk-34k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-voet-12k",
+      "title": "ВОЭТ 1, 2 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voet-12k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-voet-3k",
+      "title": "ВОЭТ 3 курс",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voet-3k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-voop-12k",
+      "title": "ВООП 1, 2 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voop-12k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-voop-34k",
+      "title": "ВООП 3, 4 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "voop-34k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-vevh-12k",
+      "title": "ВЭВХ 1, 2 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "vevh-12k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-vevh-34k",
+      "title": "ВЭВХ 3, 4 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "vevh-34k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-veph-12k",
+      "title": "ВЭПХ 1, 2 курсы",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "veph-12k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    },
+    {
+      "id": "spo-veph-3k",
+      "title": "ВЭПХ 3 курс",
+      "sourceUrl": "https://vfrgups.ru/portal/rasp_spo.php",
+      "sourceRequest": {
+        "GRUP": "veph-3k",
+        "ok": "Показать"
+      },
+      "publishedContent": false,
+      "responseBytes": 112
+    }
+  ],
+  "sessions": [
+    {
+      "id": "session-1757-1",
+      "title": "[1 курс] ВЗДМ ВЗДЛ-261",
+      "groups": ["ВЗДМ-261", "ВЗДЛ-261"],
+      "course": 1,
+      "number": 1,
+      "entryCount": 12,
+      "from": "2026-10-12",
+      "to": "2026-10-17",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1757",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1757-2",
+      "title": "[1 курс] ВЗДМ ВЗДЛ-261",
+      "groups": ["ВЗДМ-261", "ВЗДЛ-261"],
+      "course": 1,
+      "number": 2,
+      "entryCount": 74,
+      "from": "2027-01-25",
+      "to": "2027-02-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1757",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1757-3",
+      "title": "[1 курс] ВЗДМ ВЗДЛ-261",
+      "groups": ["ВЗДМ-261", "ВЗДЛ-261"],
+      "course": 1,
+      "number": 3,
+      "entryCount": 102,
+      "from": "2027-05-17",
+      "to": "2027-05-31",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1757",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1756-1",
+      "title": "[1 курс] ВЗПВ ВЗПЛ ВЗПЭ-261",
+      "groups": ["ВЗПВ-261", "ВЗПЛ-261", "ВЗПЭ-261"],
+      "course": 1,
+      "number": 1,
+      "entryCount": 15,
+      "from": "2026-10-05",
+      "to": "2026-10-10",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1756",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1756-2",
+      "title": "[1 курс] ВЗПВ ВЗПЛ ВЗПЭ-261",
+      "groups": ["ВЗПВ-261", "ВЗПЛ-261", "ВЗПЭ-261"],
+      "course": 1,
+      "number": 2,
+      "entryCount": 96,
+      "from": "2027-01-18",
+      "to": "2027-02-04",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1756",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1756-3",
+      "title": "[1 курс] ВЗПВ ВЗПЛ ВЗПЭ-261",
+      "groups": ["ВЗПВ-261", "ВЗПЛ-261", "ВЗПЭ-261"],
+      "course": 1,
+      "number": 3,
+      "entryCount": 83,
+      "from": "2027-04-14",
+      "to": "2027-04-24",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1756",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1758-1",
+      "title": "[1 курс] ВЗСА ВЗСЭ ВЗЖУ 261",
+      "groups": ["ВЗСА-261", "ВЗСЭ-261", "ВЗЖУ-261"],
+      "course": 1,
+      "number": 1,
+      "entryCount": 22,
+      "from": "2026-10-12",
+      "to": "2026-10-17",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1758",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1758-3",
+      "title": "[1 курс] ВЗСА ВЗСЭ ВЗЖУ 261",
+      "groups": ["ВЗСА-261", "ВЗСЭ-261", "ВЗЖУ-261"],
+      "course": 1,
+      "number": 3,
+      "entryCount": 46,
+      "from": "2027-05-13",
+      "to": "2027-05-27",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1758",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1758-2",
+      "title": "[1 курс] ВЗСА ВЗСЭ ВЗЖУ 261",
+      "groups": ["ВЗСА-261", "ВЗСЭ-261", "ВЗЖУ-261"],
+      "course": 1,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1758",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1713-1",
+      "title": "[2 курс] ВЗДМ ВЗДЛ-251",
+      "groups": ["ВЗДМ-251", "ВЗДЛ-251"],
+      "course": 2,
+      "number": 1,
+      "entryCount": 10,
+      "from": "2026-09-28",
+      "to": "2026-10-01",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1713",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1713-3",
+      "title": "[2 курс] ВЗДМ ВЗДЛ-251",
+      "groups": ["ВЗДМ-251", "ВЗДЛ-251"],
+      "course": 2,
+      "number": 3,
+      "entryCount": 40,
+      "from": "2027-03-22",
+      "to": "2027-04-02",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1713",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1713-2",
+      "title": "[2 курс] ВЗДМ ВЗДЛ-251",
+      "groups": ["ВЗДМ-251", "ВЗДЛ-251"],
+      "course": 2,
+      "number": 2,
+      "entryCount": 55,
+      "from": "2027-01-11",
+      "to": "2027-01-23",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1713",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1714-1",
+      "title": "[2 курс] ВЗПВ ВЗПЛ ВЗПЭ-251",
+      "groups": ["ВЗПВ-251", "ВЗПЛ-251", "ВЗПЭ-251"],
+      "course": 2,
+      "number": 1,
+      "entryCount": 8,
+      "from": "2026-09-28",
+      "to": "2026-10-01",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1714",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1714-2",
+      "title": "[2 курс] ВЗПВ ВЗПЛ ВЗПЭ-251",
+      "groups": ["ВЗПВ-251", "ВЗПЛ-251", "ВЗПЭ-251"],
+      "course": 2,
+      "number": 2,
+      "entryCount": 52,
+      "from": "2027-01-11",
+      "to": "2027-01-23",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1714",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1714-3",
+      "title": "[2 курс] ВЗПВ ВЗПЛ ВЗПЭ-251",
+      "groups": ["ВЗПВ-251", "ВЗПЛ-251", "ВЗПЭ-251"],
+      "course": 2,
+      "number": 3,
+      "entryCount": 52,
+      "from": "2027-03-22",
+      "to": "2027-04-03",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1714",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1715-1",
+      "title": "[2 курс] ВЗСА ВЗСЭ ВЗЖУ 251",
+      "groups": ["ВЗСА-251", "ВЗСЭ-251", "ВЗЖУ-251"],
+      "course": 2,
+      "number": 1,
+      "entryCount": 13,
+      "from": "2026-09-28",
+      "to": "2026-10-01",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1715",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1715-2",
+      "title": "[2 курс] ВЗСА ВЗСЭ ВЗЖУ 251",
+      "groups": ["ВЗСА-251", "ВЗСЭ-251", "ВЗЖУ-251"],
+      "course": 2,
+      "number": 2,
+      "entryCount": 61,
+      "from": "2027-01-11",
+      "to": "2027-01-23",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1715",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1717-1",
+      "title": "[3 курс] ВЗДМ ВЗДЛ-241",
+      "groups": ["ВЗДМ-241", "ВЗДЛ-241"],
+      "course": 3,
+      "number": 1,
+      "entryCount": 8,
+      "from": "2026-09-17",
+      "to": "2026-09-19",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1717",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1715-3",
+      "title": "[2 курс] ВЗСА ВЗСЭ ВЗЖУ 251",
+      "groups": ["ВЗСА-251", "ВЗСЭ-251", "ВЗЖУ-251"],
+      "course": 2,
+      "number": 3,
+      "entryCount": 45,
+      "from": "2027-03-22",
+      "to": "2027-04-03",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1715",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1717-2",
+      "title": "[3 курс] ВЗДМ ВЗДЛ-241",
+      "groups": ["ВЗДМ-241", "ВЗДЛ-241"],
+      "course": 3,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1717",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1717-3",
+      "title": "[3 курс] ВЗДМ ВЗДЛ-241",
+      "groups": ["ВЗДМ-241", "ВЗДЛ-241"],
+      "course": 3,
+      "number": 3,
+      "entryCount": 58,
+      "from": "2027-05-31",
+      "to": "2027-06-10",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1717",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1720-1",
+      "title": "[3 курс] ВЗЖУ-241",
+      "groups": ["ВЗЖУ-241"],
+      "course": 3,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-09",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1720",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1720-2",
+      "title": "[3 курс] ВЗЖУ-241",
+      "groups": ["ВЗЖУ-241"],
+      "course": 3,
+      "number": 2,
+      "entryCount": 26,
+      "from": "2026-11-23",
+      "to": "2026-12-05",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1720",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1718-1",
+      "title": "[3 курс] ВЗПВ ВЗПЛ ВЗПЭ-241",
+      "groups": ["ВЗПВ-241", "ВЗПЛ-241", "ВЗПЭ-241"],
+      "course": 3,
+      "number": 1,
+      "entryCount": 5,
+      "from": "2026-09-10",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1718",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1720-3",
+      "title": "[3 курс] ВЗЖУ-241",
+      "groups": ["ВЗЖУ-241"],
+      "course": 3,
+      "number": 3,
+      "entryCount": 22,
+      "from": "2027-03-22",
+      "to": "2027-03-29",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1720",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1718-2",
+      "title": "[3 курс] ВЗПВ ВЗПЛ ВЗПЭ-241",
+      "groups": ["ВЗПВ-241", "ВЗПЛ-241", "ВЗПЭ-241"],
+      "course": 3,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1718",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1719-1",
+      "title": "[3 курс] ВЗСА 241",
+      "groups": ["ВЗСА-241"],
+      "course": 3,
+      "number": 1,
+      "entryCount": 5,
+      "from": "2026-09-09",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1719",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1718-3",
+      "title": "[3 курс] ВЗПВ ВЗПЛ ВЗПЭ-241",
+      "groups": ["ВЗПВ-241", "ВЗПЛ-241", "ВЗПЭ-241"],
+      "course": 3,
+      "number": 3,
+      "entryCount": 71,
+      "from": "2027-03-29",
+      "to": "2027-04-10",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1718",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1719-2",
+      "title": "[3 курс] ВЗСА 241",
+      "groups": ["ВЗСА-241"],
+      "course": 3,
+      "number": 2,
+      "entryCount": 26,
+      "from": "2026-11-23",
+      "to": "2026-12-05",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1719",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1719-3",
+      "title": "[3 курс] ВЗСА 241",
+      "groups": ["ВЗСА-241"],
+      "course": 3,
+      "number": 3,
+      "entryCount": 18,
+      "from": "2027-03-22",
+      "to": "2027-03-27",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1719",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1759-1",
+      "title": "[3 курс] ВЗСЭ-241",
+      "groups": ["ВЗСЭ-241"],
+      "course": 3,
+      "number": 1,
+      "entryCount": 6,
+      "from": "2026-09-09",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1759",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1759-2",
+      "title": "[3 курс] ВЗСЭ-241",
+      "groups": ["ВЗСЭ-241"],
+      "course": 3,
+      "number": 2,
+      "entryCount": 29,
+      "from": "2026-11-23",
+      "to": "2026-12-05",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1759",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1759-3",
+      "title": "[3 курс] ВЗСЭ-241",
+      "groups": ["ВЗСЭ-241"],
+      "course": 3,
+      "number": 3,
+      "entryCount": 21,
+      "from": "2027-03-22",
+      "to": "2027-03-27",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1759",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1721-1",
+      "title": "[4 курс] ВЗДМ ВЗДЛ 231",
+      "groups": ["ВЗДМ-231", "ВЗДЛ-231"],
+      "course": 4,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-10",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1721",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1721-2",
+      "title": "[4 курс] ВЗДМ ВЗДЛ 231",
+      "groups": ["ВЗДМ-231", "ВЗДЛ-231"],
+      "course": 4,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1721",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1724-1",
+      "title": "[4 курс] ВЗЖУ-231",
+      "groups": ["ВЗЖУ-231"],
+      "course": 4,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-15",
+      "to": "2026-09-18",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1724",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1721-3",
+      "title": "[4 курс] ВЗДМ ВЗДЛ 231",
+      "groups": ["ВЗДМ-231", "ВЗДЛ-231"],
+      "course": 4,
+      "number": 3,
+      "entryCount": 67,
+      "from": "2027-04-12",
+      "to": "2027-04-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1721",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1724-2",
+      "title": "[4 курс] ВЗЖУ-231",
+      "groups": ["ВЗЖУ-231"],
+      "course": 4,
+      "number": 2,
+      "entryCount": 40,
+      "from": "2026-11-30",
+      "to": "2026-12-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1724",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1724-3",
+      "title": "[4 курс] ВЗЖУ-231",
+      "groups": ["ВЗЖУ-231"],
+      "course": 4,
+      "number": 3,
+      "entryCount": 26,
+      "from": "2027-04-05",
+      "to": "2027-04-14",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1724",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1722-1",
+      "title": "[4 курс] ВЗПВ ВЗПЛ ВЗПЭ 231",
+      "groups": ["ВЗПВ-231", "ВЗПЛ-231", "ВЗПЭ-231"],
+      "course": 4,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-17",
+      "to": "2026-09-19",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1722",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1722-2",
+      "title": "[4 курс] ВЗПВ ВЗПЛ ВЗПЭ 231",
+      "groups": ["ВЗПВ-231", "ВЗПЛ-231", "ВЗПЭ-231"],
+      "course": 4,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1722",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1722-3",
+      "title": "[4 курс] ВЗПВ ВЗПЛ ВЗПЭ 231",
+      "groups": ["ВЗПВ-231", "ВЗПЛ-231", "ВЗПЭ-231"],
+      "course": 4,
+      "number": 3,
+      "entryCount": 35,
+      "from": "2027-04-05",
+      "to": "2027-04-13",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1722",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1723-1",
+      "title": "[4 курс] ВЗСА 231",
+      "groups": ["ВЗСА-231"],
+      "course": 4,
+      "number": 1,
+      "entryCount": 10,
+      "from": "2026-09-15",
+      "to": "2026-09-18",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1723",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1723-2",
+      "title": "[4 курс] ВЗСА 231",
+      "groups": ["ВЗСА-231"],
+      "course": 4,
+      "number": 2,
+      "entryCount": 25,
+      "from": "2026-11-30",
+      "to": "2026-12-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1723",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1723-3",
+      "title": "[4 курс] ВЗСА 231",
+      "groups": ["ВЗСА-231"],
+      "course": 4,
+      "number": 3,
+      "entryCount": 16,
+      "from": "2027-04-05",
+      "to": "2027-04-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1723",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1749-1",
+      "title": "[4 курс] ВЗСЭ 231",
+      "groups": ["ВЗСЭ-231"],
+      "course": 4,
+      "number": 1,
+      "entryCount": 5,
+      "from": "2026-09-15",
+      "to": "2026-09-17",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1749",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1749-2",
+      "title": "[4 курс] ВЗСЭ 231",
+      "groups": ["ВЗСЭ-231"],
+      "course": 4,
+      "number": 2,
+      "entryCount": 24,
+      "from": "2026-11-30",
+      "to": "2026-12-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1749",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1749-3",
+      "title": "[4 курс] ВЗСЭ 231",
+      "groups": ["ВЗСЭ-231"],
+      "course": 4,
+      "number": 3,
+      "entryCount": 21,
+      "from": "2027-04-05",
+      "to": "2027-04-13",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1749",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1771-1",
+      "title": "[5 курс] ВЗДЛ 221",
+      "groups": ["ВЗДЛ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 9,
+      "from": "2026-09-15",
+      "to": "2026-09-18",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1771",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1771-2",
+      "title": "[5 курс] ВЗДЛ 221",
+      "groups": ["ВЗДЛ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1771",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1771-3",
+      "title": "[5 курс] ВЗДЛ 221",
+      "groups": ["ВЗДЛ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 25,
+      "from": "2027-05-12",
+      "to": "2027-05-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1771",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1725-1",
+      "title": "[5 курс] ВЗДМ 221",
+      "groups": ["ВЗДМ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 8,
+      "from": "2026-09-15",
+      "to": "2026-09-18",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1725",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1725-2",
+      "title": "[5 курс] ВЗДМ 221",
+      "groups": ["ВЗДМ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1725",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1728-1",
+      "title": "[5 курс] ВЗЖУ 221",
+      "groups": ["ВЗЖУ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-22",
+      "to": "2026-09-25",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1728",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1725-3",
+      "title": "[5 курс] ВЗДМ 221",
+      "groups": ["ВЗДМ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 67,
+      "from": "2027-05-12",
+      "to": "2027-05-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1725",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1728-2",
+      "title": "[5 курс] ВЗЖУ 221",
+      "groups": ["ВЗЖУ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 37,
+      "from": "2026-12-07",
+      "to": "2026-12-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1728",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1726-1",
+      "title": "[5 курс] ВЗПГ 221",
+      "groups": ["ВЗПГ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 6,
+      "from": "2026-09-21",
+      "to": "2026-09-23",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1726",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1728-3",
+      "title": "[5 курс] ВЗЖУ 221",
+      "groups": ["ВЗЖУ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 32,
+      "from": "2027-05-13",
+      "to": "2027-05-28",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1728",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1726-2",
+      "title": "[5 курс] ВЗПГ 221",
+      "groups": ["ВЗПГ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1726",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1726-3",
+      "title": "[5 курс] ВЗПГ 221",
+      "groups": ["ВЗПГ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 30,
+      "from": "2027-05-11",
+      "to": "2027-05-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1726",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1769-1",
+      "title": "[5 курс] ВЗПЛ 221",
+      "groups": ["ВЗПЛ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 9,
+      "from": "2026-09-21",
+      "to": "2026-09-24",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1769",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1769-2",
+      "title": "[5 курс] ВЗПЛ 221",
+      "groups": ["ВЗПЛ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1769",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1769-3",
+      "title": "[5 курс] ВЗПЛ 221",
+      "groups": ["ВЗПЛ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 19,
+      "from": "2027-05-11",
+      "to": "2027-05-19",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1769",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1770-1",
+      "title": "[5 курс] ВЗПЭ 221",
+      "groups": ["ВЗПЭ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 7,
+      "from": "2026-09-21",
+      "to": "2026-09-24",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1770",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1770-2",
+      "title": "[5 курс] ВЗПЭ 221",
+      "groups": ["ВЗПЭ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1770",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1770-3",
+      "title": "[5 курс] ВЗПЭ 221",
+      "groups": ["ВЗПЭ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 24,
+      "from": "2027-05-11",
+      "to": "2027-05-22",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1770",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1727-1",
+      "title": "[5 курс] ВЗСА 221",
+      "groups": ["ВЗСА-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 14,
+      "from": "2026-09-21",
+      "to": "2026-09-25",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1727",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1727-2",
+      "title": "[5 курс] ВЗСА 221",
+      "groups": ["ВЗСА-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 42,
+      "from": "2026-11-17",
+      "to": "2026-12-04",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1727",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1727-3",
+      "title": "[5 курс] ВЗСА 221",
+      "groups": ["ВЗСА-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 16,
+      "from": "2027-04-12",
+      "to": "2027-04-17",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1727",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1750-1",
+      "title": "[5 курс] ВЗСЭ 221",
+      "groups": ["ВЗСЭ-221"],
+      "course": 5,
+      "number": 1,
+      "entryCount": 10,
+      "from": "2026-09-21",
+      "to": "2026-09-25",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1750",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1750-2",
+      "title": "[5 курс] ВЗСЭ 221",
+      "groups": ["ВЗСЭ-221"],
+      "course": 5,
+      "number": 2,
+      "entryCount": 37,
+      "from": "2026-11-17",
+      "to": "2026-12-04",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1750",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1750-3",
+      "title": "[5 курс] ВЗСЭ 221",
+      "groups": ["ВЗСЭ-221"],
+      "course": 5,
+      "number": 3,
+      "entryCount": 20,
+      "from": "2027-03-18",
+      "to": "2027-03-27",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1750",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1760-1",
+      "title": "[6 курс] ВОДЛ 008",
+      "groups": ["ВОДЛ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 4,
+      "from": "2026-09-10",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1760",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1760-2",
+      "title": "[6 курс] ВОДЛ 008",
+      "groups": ["ВОДЛ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 12,
+      "from": "2026-11-09",
+      "to": "2026-11-14",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1760",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1760-3",
+      "title": "[6 курс] ВОДЛ 008",
+      "groups": ["ВОДЛ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1760",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1729-1",
+      "title": "[6 курс] ВОДМ 008",
+      "groups": ["ВОДМ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 4,
+      "from": "2026-09-10",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1729",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1729-2",
+      "title": "[6 курс] ВОДМ 008",
+      "groups": ["ВОДМ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 11,
+      "from": "2026-11-05",
+      "to": "2026-11-10",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1729",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1729-3",
+      "title": "[6 курс] ВОДМ 008",
+      "groups": ["ВОДМ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1729",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1736-1",
+      "title": "[6 курс] ВОЖУ 008",
+      "groups": ["ВОЖУ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 2,
+      "from": "2026-09-11",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1736",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1736-2",
+      "title": "[6 курс] ВОЖУ 008",
+      "groups": ["ВОЖУ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 9,
+      "from": "2026-11-05",
+      "to": "2026-11-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1736",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1736-3",
+      "title": "[6 курс] ВОЖУ 008",
+      "groups": ["ВОЖУ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1736",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1731-1",
+      "title": "[6 курс] ВОПВ 008",
+      "groups": ["ВОПВ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 4,
+      "from": "2026-09-07",
+      "to": "2026-09-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1731",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1731-2",
+      "title": "[6 курс] ВОПВ 008",
+      "groups": ["ВОПВ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 12,
+      "from": "2026-11-05",
+      "to": "2026-11-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1731",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1731-3",
+      "title": "[6 курс] ВОПВ 008",
+      "groups": ["ВОПВ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1731",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1751-1",
+      "title": "[6 курс] ВОПЛ 008",
+      "groups": ["ВОПЛ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 4,
+      "from": "2026-09-07",
+      "to": "2026-09-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1751",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1751-3",
+      "title": "[6 курс] ВОПЛ 008",
+      "groups": ["ВОПЛ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1751",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1751-2",
+      "title": "[6 курс] ВОПЛ 008",
+      "groups": ["ВОПЛ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 12,
+      "from": "2026-11-05",
+      "to": "2026-11-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1751",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1752-1",
+      "title": "[6 курс] ВОПЭ 008",
+      "groups": ["ВОПЭ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 4,
+      "from": "2026-09-07",
+      "to": "2026-09-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1752",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1733-1",
+      "title": "[6 курс] ВОСА 008",
+      "groups": ["ВОСА-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 3,
+      "from": "2026-09-10",
+      "to": "2026-09-11",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1733",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1752-3",
+      "title": "[6 курс] ВОПЭ 008",
+      "groups": ["ВОПЭ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1752",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1752-2",
+      "title": "[6 курс] ВОПЭ 008",
+      "groups": ["ВОПЭ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 12,
+      "from": "2026-11-05",
+      "to": "2026-11-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1752",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1733-2",
+      "title": "[6 курс] ВОСА 008",
+      "groups": ["ВОСА-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 8,
+      "from": "2026-11-09",
+      "to": "2026-11-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1733",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1735-1",
+      "title": "[6 курс] ВОСЭ 008",
+      "groups": ["ВОСЭ-008"],
+      "course": 6,
+      "number": 1,
+      "entryCount": 3,
+      "from": "2026-09-11",
+      "to": "2026-09-12",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1735",
+        "SES": "1",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1733-3",
+      "title": "[6 курс] ВОСА 008",
+      "groups": ["ВОСА-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1733",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1735-3",
+      "title": "[6 курс] ВОСЭ 008",
+      "groups": ["ВОСЭ-008"],
+      "course": 6,
+      "number": 3,
+      "entryCount": 0,
+      "from": null,
+      "to": null,
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1735",
+        "SES": "3",
+        "ok": "Показать"
+      }
+    },
+    {
+      "id": "session-1735-2",
+      "title": "[6 курс] ВОСЭ 008",
+      "groups": ["ВОСЭ-008"],
+      "course": 6,
+      "number": 2,
+      "entryCount": 7,
+      "from": "2026-11-05",
+      "to": "2026-11-09",
+      "sourceUrl": "https://vfrgups.ru/portal/list_potok.php",
+      "sourceRequest": {
+        "NP": "1735",
+        "SES": "2",
+        "ok": "Показать"
+      }
+    }
+  ],
+  "teacherOptions": [
+    {
+      "id": "923",
+      "name": "Баланцев С.А"
+    },
+    {
+      "id": "824",
+      "name": "Белявцева И.В"
+    },
+    {
+      "id": "825",
+      "name": "Буракова А.В"
+    },
+    {
+      "id": "906",
+      "name": "Былдин Д.Е"
+    },
+    {
+      "id": "829",
+      "name": "Власова Е.В"
+    },
+    {
+      "id": "826",
+      "name": "Воронов О.В"
+    },
+    {
+      "id": "828",
+      "name": "Ворошилина М.А"
+    },
+    {
+      "id": "832",
+      "name": "Гордиенко Е.П"
+    },
+    {
+      "id": "886",
+      "name": "Горемыкин С.А"
+    },
+    {
+      "id": "833",
+      "name": "Гостева С.Р"
+    },
+    {
+      "id": "899",
+      "name": "Гошков А.А"
+    },
+    {
+      "id": "834",
+      "name": "Гуленко П.И"
+    },
+    {
+      "id": "836",
+      "name": "Журавлева И.В"
+    },
+    {
+      "id": "909",
+      "name": "Казьмина Е.А"
+    },
+    {
+      "id": "922",
+      "name": "Калаева Т.С"
+    },
+    {
+      "id": "838",
+      "name": "Калачева О.А"
+    },
+    {
+      "id": "839",
+      "name": "Климентов Н.И"
+    },
+    {
+      "id": "840",
+      "name": "Кожевников А.А"
+    },
+    {
+      "id": "843",
+      "name": "Корыстин С.С"
+    },
+    {
+      "id": "919",
+      "name": "Корыстина Н.А"
+    },
+    {
+      "id": "845",
+      "name": "Краснов А.И"
+    },
+    {
+      "id": "846",
+      "name": "Кукшинова Е.Н"
+    },
+    {
+      "id": "847",
+      "name": "Куныгина Л.В"
+    },
+    {
+      "id": "917",
+      "name": "Куралесин В.В"
+    },
+    {
+      "id": "849",
+      "name": "Лукин А.А"
+    },
+    {
+      "id": "850",
+      "name": "Лукин О.А"
+    },
+    {
+      "id": "851",
+      "name": "Мамедов Г.М"
+    },
+    {
+      "id": "924",
+      "name": "Надеина Т.А"
+    },
+    {
+      "id": "854",
+      "name": "Никитин С.А"
+    },
+    {
+      "id": "855",
+      "name": "Орлов В.В"
+    },
+    {
+      "id": "921",
+      "name": "Орлова Э.В"
+    },
+    {
+      "id": "858",
+      "name": "Попова Е.А"
+    },
+    {
+      "id": "860",
+      "name": "Прицепова С.А"
+    },
+    {
+      "id": "920",
+      "name": "Реджепов М.Б"
+    },
+    {
+      "id": "908",
+      "name": "Рогозин Д.М"
+    },
+    {
+      "id": "902",
+      "name": "Рябко К.А"
+    },
+    {
+      "id": "863",
+      "name": "Рязанцев Е.В"
+    },
+    {
+      "id": "866",
+      "name": "Сербина Л.В"
+    },
+    {
+      "id": "869",
+      "name": "Соломонов К.Н"
+    },
+    {
+      "id": "870",
+      "name": "Спиридонов Е.Г"
+    },
+    {
+      "id": "871",
+      "name": "Стоянова Н.В"
+    },
+    {
+      "id": "872",
+      "name": "Сычев Е.В"
+    },
+    {
+      "id": "874",
+      "name": "Тимофеев А.И"
+    },
+    {
+      "id": "882",
+      "name": "Тищук Л.И"
+    },
+    {
+      "id": "875",
+      "name": "Федоринин Н.И"
+    },
+    {
+      "id": "889",
+      "name": "Шатохин А.А"
+    }
+  ],
+  "coverage": {
+    "status": "complete_vo_partial_spo",
+    "indexedDocumentCount": 9,
+    "structuredLessonCount": 4400,
+    "range": {
+      "from": "2026-09-01",
+      "to": "2027-08-31"
+    },
+    "checkedDateCount": 365,
+    "failedDateCount": 0,
+    "fullTimeLessonCount": 2492,
+    "partTimeLessonCount": 1908,
+    "groupCount": 58,
+    "firstPublishedDate": "2026-09-01",
+    "lastPublishedDate": "2027-06-10",
+    "fullTimeHigherEducationCourses": [1, 2, 3, 4, 5],
+    "partTimeFlows": 32,
+    "checkedSessions": 96,
+    "publishedSessions": 78,
+    "spoGroupOptions": 12,
+    "spoChangeCount": 38,
+    "limitation": "Календарь ВО содержит все 4 400 занятий, опубликованных в ежедневном расписании для проверенного учебного года 01.09.2026–31.08.2027. Базовое расписание СПО пока не перенесено: все 12 вариантов официальной формы возвращают пустую страницу. Файлы замен СПО и 12 вариантов групп доступны.",
+    "sourceAvailability": "Источник получен напрямую по HTTPS с TLS 1.2. Проверены 365 дат и 96 сессий; ошибок загрузки нет. Все 1 908 строк заочных сессий соответствуют числу заочных занятий ежедневного календаря. Для СПО POST возвращает HTTP 200 и пустое тело страницы (112 байт); проверены UTF-8, CP1251, Referer, GET.",
+    "snapshotNote": "Снимок опубликованных данных на 11.10.2026. Будущие изменения на официальном сайте автоматически не подгружаются. Отсутствие записи означает, что занятие не опубликовано в снимке, а не подтверждённый свободный день.",
+    "nextAction": "Повторно импортировать базовые таблицы СПО, когда официальный обработчик расписки начнёт возвращать документы; сверить с опубликованными заменами. Обновлять снимок при публикации изменений филиалом."
+  }
+}

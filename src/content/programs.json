@@ -1,0 +1,464 @@
+{
+  "verifiedAt": "2026-10-10",
+  "admissionYear": 2026,
+  "scope": "Воронежский филиал РГУПС",
+  "notes": [
+    "Количество мест относится к приёмной кампании 2026 года и не показывает оставшиеся свободные места на текущую дату.",
+    "У сроков СПО есть различия между прежними наборами и программами «Профессионалитета»; здесь приведены опубликованные сроки актуальных программ.",
+    "В старом разделе сведений есть иные снятые с набора ИТ-программы; они перечислены отдельно как архив и не считаются действующими направлениями приёма.",
+    "Для очных программ ВО длительность не перенесена из заочных учебных планов: она должна сверяться с планом конкретного набора."
+  ],
+  "programs": [
+    {
+      "id": "vo-230503",
+      "code": "23.05.03",
+      "title": "Подвижной состав железных дорог",
+      "level": "ВО",
+      "kind": "Специалитет",
+      "forms": ["Заочная"],
+      "duration": "5 лет 8 месяцев",
+      "basis": "Среднее общее или профессиональное образование",
+      "profiles": [
+        "Локомотивы",
+        "Электрический транспорт железных дорог",
+        "Пассажирские вагоны",
+        "Грузовые вагоны"
+      ],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Заочная",
+          "budget": 15,
+          "paid": 80,
+          "general": 6,
+          "target": 4,
+          "separate": 3,
+          "special": 2
+        }
+      ],
+      "description": "Эксплуатация, техническое обслуживание и ремонт железнодорожного подвижного состава.",
+      "sources": [
+        "https://rgups.ru/abitur/vo/spetcial-nosti-i-napravleniia/",
+        "https://vfrgups.ru/sveden_docs/ktcp_vo_s_kvotami_filialy_15-04-2026.pdf",
+        "https://bypass.rgups.ru/filiali/voronezh/"
+      ]
+    },
+    {
+      "id": "vo-230504",
+      "code": "23.05.04",
+      "title": "Эксплуатация железных дорог",
+      "level": "ВО",
+      "kind": "Специалитет",
+      "forms": ["Очная", "Заочная"],
+      "duration": "Заочная — 5 лет 8 месяцев",
+      "basis": "Среднее общее или профессиональное образование",
+      "profiles": [
+        "Магистральный транспорт — очно и заочно",
+        "Транспортный бизнес и логистика — заочно"
+      ],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "budget": 25,
+          "paid": 15,
+          "general": 4,
+          "target": 13,
+          "separate": 5,
+          "special": 3
+        },
+        {
+          "form": "Заочная",
+          "budget": 15,
+          "paid": 90,
+          "general": 10,
+          "target": 0,
+          "separate": 3,
+          "special": 2
+        }
+      ],
+      "description": "Организация движения поездов, управление перевозками и транспортная логистика.",
+      "sources": [
+        "https://rgups.ru/abitur/vo/spetcial-nosti-i-napravleniia/",
+        "https://vfrgups.ru/sveden_docs/ktcp_vo_s_kvotami_filialy_15-04-2026.pdf",
+        "https://bypass.rgups.ru/filiali/voronezh/"
+      ]
+    },
+    {
+      "id": "vo-230505",
+      "code": "23.05.05",
+      "title": "Системы обеспечения движения поездов",
+      "level": "ВО",
+      "kind": "Специалитет",
+      "forms": ["Заочная"],
+      "duration": "5 лет 8 месяцев",
+      "basis": "Среднее общее или профессиональное образование",
+      "profiles": [
+        "Электроснабжение железных дорог",
+        "Автоматика и телемеханика на железнодорожном транспорте"
+      ],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Заочная",
+          "profile": "Электроснабжение железных дорог",
+          "budget": 5,
+          "paid": 15,
+          "general": 3,
+          "target": 0,
+          "separate": 1,
+          "special": 1
+        },
+        {
+          "form": "Заочная",
+          "profile": "Автоматика и телемеханика на железнодорожном транспорте",
+          "budget": 5,
+          "paid": 15,
+          "general": 3,
+          "target": 0,
+          "separate": 1,
+          "special": 1
+        }
+      ],
+      "description": "Электроснабжение, сигнализация, централизация и блокировка на железнодорожном транспорте.",
+      "sources": [
+        "https://rgups.ru/abitur/vo/spetcial-nosti-i-napravleniia/",
+        "https://vfrgups.ru/sveden_docs/ktcp_vo_s_kvotami_filialy_15-04-2026.pdf",
+        "https://bypass.rgups.ru/filiali/voronezh/"
+      ]
+    },
+    {
+      "id": "vo-230506",
+      "code": "23.05.06",
+      "title": "Строительство железных дорог, мостов и транспортных тоннелей",
+      "level": "ВО",
+      "kind": "Специалитет",
+      "forms": ["Очная", "Заочная"],
+      "duration": "Заочная — 5 лет 8 месяцев",
+      "basis": "Среднее общее или профессиональное образование",
+      "profiles": ["Управление техническим состоянием железнодорожного пути"],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "budget": 20,
+          "paid": 15,
+          "general": 4,
+          "target": 10,
+          "separate": 4,
+          "special": 2
+        },
+        {
+          "form": "Заочная",
+          "budget": 10,
+          "paid": 25,
+          "general": 7,
+          "target": 0,
+          "separate": 2,
+          "special": 1
+        }
+      ],
+      "description": "Строительство, содержание и восстановление железнодорожной инфраструктуры.",
+      "sources": [
+        "https://rgups.ru/abitur/vo/spetcial-nosti-i-napravleniia/",
+        "https://vfrgups.ru/sveden_docs/ktcp_vo_s_kvotami_filialy_15-04-2026.pdf",
+        "https://bypass.rgups.ru/filiali/voronezh/"
+      ]
+    },
+    {
+      "id": "spo-090201",
+      "code": "09.02.01",
+      "title": "Компьютерные системы и комплексы",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 10 месяцев",
+      "basis": "9 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 30,
+          "paid": 20
+        }
+      ],
+      "description": "Проектирование, эксплуатация и обслуживание компьютерного оборудования.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-090212",
+      "code": "09.02.12",
+      "title": "Техническая эксплуатация и сопровождение информационных систем",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "2 года 10 месяцев",
+      "basis": "9 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 30,
+          "paid": 20
+        }
+      ],
+      "description": "Сопровождение информационных систем, настройка и поддержка ИТ-инфраструктуры.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-130207",
+      "code": "13.02.07",
+      "title": "Электроснабжение",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "2 года 10 месяцев",
+      "basis": "9 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 19,
+          "paid": 15
+        }
+      ],
+      "description": "Эксплуатация устройств электроснабжения и электрооборудования.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-230201",
+      "code": "23.02.01",
+      "title": "Организация перевозок и управление на транспорте (по видам)",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 10 месяцев после 9 классов; 2 года 10 месяцев после 11 классов",
+      "basis": "9 или 11 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 39,
+          "paid": 50
+        },
+        {
+          "form": "Очная",
+          "basis": "11 классов",
+          "budget": 0,
+          "paid": 15
+        }
+      ],
+      "description": "Организация перевозочного процесса и обслуживание пассажирских и грузовых перевозок.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-230206-locomotives",
+      "code": "23.02.06",
+      "title": "Техническая эксплуатация подвижного состава железных дорог",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 6 месяцев",
+      "basis": "9 классов",
+      "profiles": ["Локомотивы"],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 30,
+          "paid": 70
+        }
+      ],
+      "description": "Эксплуатация и техническое обслуживание локомотивов.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf",
+        "https://vfrgups.ru/news/karty-zh/23-02-06l_2026.pdf"
+      ]
+    },
+    {
+      "id": "spo-230206-wagons",
+      "code": "23.02.06",
+      "title": "Техническая эксплуатация подвижного состава железных дорог",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 10 месяцев",
+      "basis": "9 классов",
+      "profiles": ["Вагоны"],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 45,
+          "paid": 15
+        }
+      ],
+      "description": "Техническое обслуживание, диагностика и ремонт вагонов.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-230208",
+      "code": "23.02.08",
+      "title": "Строительство железных дорог, путь и путевое хозяйство",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 6 месяцев",
+      "basis": "9 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 50,
+          "paid": 10
+        }
+      ],
+      "description": "Сооружение и содержание железнодорожного пути, организация путевых работ.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-230209",
+      "code": "23.02.09",
+      "title": "Автоматика и телемеханика на транспорте (железнодорожном транспорте)",
+      "level": "СПО",
+      "kind": "Среднее профессиональное образование",
+      "forms": ["Очная"],
+      "duration": "3 года 6 месяцев",
+      "basis": "9 классов",
+      "profiles": [],
+      "admission2026": true,
+      "admissionStatus": "Набор предусмотрен КЦП 2026",
+      "places": [
+        {
+          "form": "Очная",
+          "basis": "9 классов",
+          "budget": 20,
+          "paid": 15
+        }
+      ],
+      "description": "Обслуживание систем железнодорожной автоматики, сигнализации и управления.",
+      "sources": [
+        "https://vfrgups.ru/spetsialnosti-spo",
+        "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+      ]
+    },
+    {
+      "id": "spo-080210",
+      "code": "08.02.10",
+      "title": "Строительство железных дорог, путь и путевое хозяйство",
+      "level": "СПО",
+      "kind": "Программа прежних наборов",
+      "forms": ["Очная", "Заочная"],
+      "duration": "Очная: 3 года 10 месяцев после 9 классов, 2 года 10 месяцев после 11 классов; заочная: 3 года 10 месяцев",
+      "basis": "Прежние наборы",
+      "profiles": [],
+      "admission2026": false,
+      "admissionStatus": "В КЦП 2026 отсутствует; актуальный код 23.02.08",
+      "currentCode": "23.02.08",
+      "places": [],
+      "description": "Документы и материалы для обучающихся прежних наборов. Не является отдельным предложением приёма 2026 года.",
+      "sources": ["https://bypass.rgups.ru/filiali/voronezh/"]
+    },
+    {
+      "id": "spo-270203",
+      "code": "27.02.03",
+      "title": "Автоматика и телемеханика на транспорте (железнодорожном транспорте)",
+      "level": "СПО",
+      "kind": "Программа прежних наборов",
+      "forms": ["Очная"],
+      "duration": "3 года 10 месяцев после 9 классов; 2 года 10 месяцев после 11 классов",
+      "basis": "Прежние наборы",
+      "profiles": [],
+      "admission2026": false,
+      "admissionStatus": "В КЦП 2026 отсутствует; актуальный код 23.02.09",
+      "currentCode": "23.02.09",
+      "places": [],
+      "description": "Документы и материалы для обучающихся прежних наборов. Не является отдельным предложением приёма 2026 года.",
+      "sources": ["https://bypass.rgups.ru/filiali/voronezh/"]
+    }
+  ],
+  "archivedPrograms": [
+    {
+      "code": "09.02.02",
+      "title": "Компьютерные сети"
+    },
+    {
+      "code": "09.02.03",
+      "title": "Программирование в компьютерных системах"
+    },
+    {
+      "code": "09.02.04",
+      "title": "Информационные системы (по отраслям)"
+    },
+    {
+      "code": "23.02.03",
+      "title": "Техническое обслуживание и ремонт автомобильного транспорта"
+    }
+  ],
+  "totals2026": {
+    "voBudget": 95,
+    "voPaid": 255,
+    "spoBudget": 263,
+    "spoPaid": 230
+  },
+  "sources": [
+    {
+      "title": "Специальности ВО, раздел «Филиал в г. Воронеже»",
+      "url": "https://rgups.ru/abitur/vo/spetcial-nosti-i-napravleniia/"
+    },
+    {
+      "title": "Специальности СПО",
+      "url": "https://vfrgups.ru/spetsialnosti-spo"
+    },
+    {
+      "title": "КЦП ВО с квотами 15.04.2026",
+      "url": "https://vfrgups.ru/sveden_docs/ktcp_vo_s_kvotami_filialy_15-04-2026.pdf"
+    },
+    {
+      "title": "КЦП СПО 2026 — Воронеж",
+      "url": "https://rgups.ru/site/assets/files/99668/ktcp_spo_2026_voronezh.pdf"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.git
+.env
+.env.*
+*.log
+*.tsbuildinfo
+.openai
+.sites-runtime
+.local
+.public-build

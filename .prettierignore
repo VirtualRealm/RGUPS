@@ -1,0 +1,10 @@
+.next
+node_modules
+out
+src/generated
+package-lock.json
+prisma/migrations
+.openai
+.local
+.public-build
+vendor
